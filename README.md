@@ -3,7 +3,7 @@
 
 # To activate the virtual environment
 .venv\Scripts\activate
-s
+
 # To install dependencies from requirements.txt file
     pip install -r requirements.txt
 
