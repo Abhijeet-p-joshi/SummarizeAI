@@ -1,0 +1,9 @@
+streamlit 
+pymupdf 
+requests 
+langchain_community 
+langchain_core
+sentence_transformers
+bs4
+ollama
+chromadb # It needs Microsoft C++ Build Tools. Install it, if not.
